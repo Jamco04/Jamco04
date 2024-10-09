@@ -8,19 +8,19 @@ Hey there, and welcome to my GitHub profile! I'm James Connoly, a Computer Syste
 🔬 Research Internship @ Biocomputing and Development Systems Group (Summer 2024)
 During my summer internship, I worked closely with a multidisciplinary team to develop a medical data visualization app using R programming. This project sharpened my skills in data analysis, debugging, and software development, all while collaborating with fellow researchers. The application was designed to display clinical datasets in an intuitive format, helping researchers and medical professionals gain insights more efficiently.
 
-Key Achievements:
+### Key Achievements:
 
 Integrated a new feature that reduced application load times by 38%.
 Presented weekly updates to a panel of mentors, refining my communication and presentation skills.
 Gained proficiency in R Studio for both development and debugging, contributing to more efficient problem-solving.
 Check out the application and repository links:
 
-Medical Dataset App
-GitHub Repository
+#### Medical Dataset App
+
 👨‍🏫 Peer-Supported Learning Group (PSLG) Mentor
 As a PSLG mentor, I lead weekly sessions for first-year programming students, helping them grasp the fundamentals of coding and computer science concepts. I’m passionate about fostering a supportive learning environment and encouraging students to develop their problem-solving skills. Mentoring has further honed my leadership and teaching abilities, particularly in Python, Java, and problem analysis.
 
-🛠 Skills & Technologies
+#### 🛠 Skills & Technologies
 Languages: Python, R, Java, HTML, SQL
 Frameworks: R Studio, Unity
 Software Development: Object-Oriented Programming, Software Testing, Database Systems
