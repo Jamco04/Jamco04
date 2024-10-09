@@ -45,6 +45,7 @@ At the University of Limerick, I’m diving deep into modules like:
 - **Software Requirements and Modeling**
 - **Software Testing and Inspection**
 - **Operating Systems**
+- **Database Systems**
 
 ---
 
