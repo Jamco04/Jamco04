@@ -1,5 +1,7 @@
-James Connoly - Tech Enthusiast, Digital Craftsman, Mentor
-🚀 Aspiring Software Developer | Biocomputing Research Intern | Peer-Supported Learning Group Mentor
+# James Connoly - Tech Enthusiast, Digital Craftsman, Mentor
+
+## 🚀 Aspiring Software Developer | Biocomputing Research Intern | Peer-Supported Learning Group Mentor
+
 
 Hey there, and welcome to my GitHub profile! I'm James Connoly, a Computer Systems student at the University of Limerick, driven by my passion for cutting-edge technology and problem-solving. My journey in tech has allowed me to blend research and development, particularly in the field of biocomputing, where I've had the opportunity to contribute to meaningful projects, and guide the next generation of programmers.
 
