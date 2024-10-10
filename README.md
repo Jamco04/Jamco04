@@ -19,7 +19,7 @@ During my summer internship, I worked closely with a multidisciplinary team to d
 - Gained proficiency in **R Studio** for both development and debugging, contributing to more efficient problem-solving.
 
 Check out the application and repository links:
-- [Medical Dataset App](http://adamurban.shinyapps.io/Research)
+- [Medical Dataset App](https://jamesconnolly.shinyapps.io/main_research/)
 
 ---
 
