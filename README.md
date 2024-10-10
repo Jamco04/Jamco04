@@ -58,6 +58,6 @@ Feel free to explore my projects and reach out for any collaborations or discuss
 ---
 
 🌐 **Get in touch:**
-- **Email:** jamco2004@gmail.com
-- **LinkedIn:** [linkedin.com/in/james-connolly-0693b02b7](https://www.linkedin.com/in/james-connolly-0693b02b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamco2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-connolly-0693b02b7/)
 
